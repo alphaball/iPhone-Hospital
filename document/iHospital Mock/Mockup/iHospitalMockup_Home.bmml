@@ -1,0 +1,38 @@
+<mockup version="1.0" skin="sketch" measuredW="471" measuredH="730" mockupW="375" mockupH="687">
+  <controls>
+    <control controlID="0" controlTypeID="com.balsamiq.mockups::iPhone" x="96" y="43" w="375" h="687" measuredW="282" measuredH="510" zOrder="0" locked="true" isInGroup="-1"/>
+    <control controlID="3" controlTypeID="com.balsamiq.mockups::ButtonBar" x="131" y="568" w="305" h="45" measuredW="299" measuredH="29" zOrder="1" locked="true" isInGroup="-1">
+      <controlProperties>
+        <selectedIndex>2</selectedIndex>
+        <text>Promotion%2C%20News%2C%20Favorites%2C%20Setting</text>
+      </controlProperties>
+    </control>
+    <control controlID="6" controlTypeID="com.balsamiq.mockups::Title" x="146" y="189" w="298" h="-1" measuredW="148" measuredH="50" zOrder="2" locked="true" isInGroup="-1">
+      <controlProperties>
+        <align>left</align>
+        <text>iHospital</text>
+      </controlProperties>
+    </control>
+    <control controlID="8" controlTypeID="com.balsamiq.mockups::SearchBox" x="139" y="276" w="236" h="-1" measuredW="120" measuredH="25" zOrder="3" locked="true" isInGroup="-1"/>
+    <control controlID="12" controlTypeID="com.balsamiq.mockups::Image" x="146" y="339" w="278" h="174" measuredW="392" measuredH="247" zOrder="4" locked="true" isInGroup="-1">
+      <controlProperties>
+        <borderStyle>square</borderStyle>
+        <filter>true</filter>
+        <src>./assets/hospital.jpg</src>
+      </controlProperties>
+    </control>
+    <control controlID="13" controlTypeID="com.balsamiq.mockups::IconLabel" x="375" y="261" w="54" h="-1" measuredW="51" measuredH="69" zOrder="5" locked="true" isInGroup="-1">
+      <controlProperties>
+        <text>Near%20by</text>
+      </controlProperties>
+    </control>
+    <control controlID="15" controlTypeID="com.balsamiq.mockups::VSplitter" x="233" y="528" w="100" h="-1" measuredW="100" measuredH="12" zOrder="6" locked="true" isInGroup="-1"/>
+    <control controlID="18" controlTypeID="com.balsamiq.mockups::Image" x="314" y="182" w="108" h="65" measuredW="233" measuredH="217" zOrder="7" locked="true" isInGroup="-1">
+      <controlProperties>
+        <filter>true</filter>
+        <src>./assets/imageslogo.jpg</src>
+        <text/>
+      </controlProperties>
+    </control>
+  </controls>
+</mockup>
